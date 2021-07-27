@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContadorHilo</string>
+    <string name="btniniciar">Iniciar</string>
+    <string name="btnpausar">Pausar</string>
+    <string name="btncontinuar">Continuar</string>
+    <string name="btnreiniciar">Reiniciar</string>
+    <string name="btndetener">Detener</string>
+</resources>
